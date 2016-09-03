@@ -37,3 +37,23 @@ Orion is an implementation of the NGSI9/10 REST API binding developed as a part 
 manage lifecycle of context information through: updates, queries, registrations and subscriptions. This table below summarizes descriptions of different operations in Orion.
 
 ![Orion Description](https://github.com/DiopBabacarEdu/test-GIT/blob/master/OrionImg.tiff)
+
+Mapping between IoT-Lite - Orion
+-----------
+Entity describes the same concept in IoT-lite and Orion. In IoT-lite, entity is the virtual representation of devices
+They have location, attributes, services and meta-data.
+
+How can we map IoT-Lite and Orion context broker concepts?
+
+The mapping below has been proposed :
+For each entity, we have the following attributes and meta-data:
+*Attributes of sensor (ex: temperature, humidity, …) with the following meta data :
+-Timestamp
+-unit (ex :Celsius, ...)
+*Attribute location
+*Attribute plateform
+*System and subsystem (Fiware-ServicePath)
+-Example: 
+-System (e.g. : SmartCampus), Subsystem (ex: PrecisionAgric)
+
+
