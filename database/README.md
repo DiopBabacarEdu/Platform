@@ -15,3 +15,18 @@ Devices are classified into three classes:
 * tag devices
 
 Each device has a coverage area that represents the 2D-spatial covered by the IoT device. This area could be a polygon, circle or rectangle. Each device exposes services which is are associated with the entity. This latter defines the concept of real life objects that are subject to observation. Therefore, each entity has a geographical location and has attributes (QuantityKind, Unit) describing the quantity type and measurement unit associated with it.
+
+
+IoT Lite has been chosen to represent concepts in the Waziup platform
+IoT-Lite is a lightweight ontology to represent Internet of Things (IoT) resources, entities and services
+IoT Lite ontology is based on 18 Concepts 
+• System/ sub-system
+• Platform
+• Device (Sensing device, Tag device, Actuating device) 
+• Sensor
+• Attribute
+• Service
+• Entity
+• Coverage (Polygon, Rectangle, Circle) 
+• Point (latitude, longitude, relativeLocation)
+• Quantity kind, Unit 
