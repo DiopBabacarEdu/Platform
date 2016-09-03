@@ -29,3 +29,7 @@ IoT Lite ontology is based on 18 Concepts
 * Coverage (Polygon, Rectangle, Circle) 
 * Point (latitude, longitude, relativeLocation)
 * Quantity kind, Unit 
+
+
+Orion Context Broker
+-----------
