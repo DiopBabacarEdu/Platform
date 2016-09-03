@@ -33,3 +33,5 @@ IoT Lite ontology is based on 18 Concepts
 
 Orion Context Broker
 -----------
+Orion is an implementation of the NGSI9/10 REST API binding developed as a part of the FIWARE platform. Orion allows to
+manage lifecycle of context information through: updates, queries, registrations and subscriptions. This table below summarizes descriptions of different operations in Orion.
