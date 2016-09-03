@@ -52,7 +52,7 @@ For each entity, we have the following attributes and meta-data:
 *Attribute location
 *Attribute plateform
 *System and subsystem (Fiware-ServicePath)
-Example: 
+Example:  
 System (e.g. : SmartCampus), Subsystem (ex: PrecisionAgric)
 
 
