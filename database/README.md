@@ -48,10 +48,10 @@ How can we map IoT-Lite and Orion context broker concepts?
 The mapping below has been proposed :
 For each entity, we have the following attributes and meta-data:
 
-*Attributes of sensor (ex: temperature, humidity, …) with the following meta data : Timestamp, unit (ex :Celsius, ...)
-*Attribute location
-*Attribute plateform
-*System and subsystem (Fiware-ServicePath)
+* Attributes of sensor (ex: temperature, humidity, …) with the following meta data : Timestamp, unit (ex :Celsius, ...)
+* Attribute location
+* Attribute plateform
+* System and subsystem (Fiware-ServicePath)
 Example:  
 System (e.g. : SmartCampus), Subsystem (ex: PrecisionAgric)
 
