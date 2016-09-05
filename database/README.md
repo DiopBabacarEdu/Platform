@@ -21,7 +21,7 @@ IoT-Lite is a lightweight ontology to represent Internet of Things (IoT) resourc
 IoT Lite ontology is based on 18 Concepts 
 * System/ sub-system
 * Platform
-* Device (Sensing device, Tag device, Actuating device) 
+* Device (Sensing device, Tag device, Actuating device)
 * Sensor
 * Attribute
 * Service
